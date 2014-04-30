@@ -19,4 +19,5 @@
 `:w` = Write file
 `:wq` = Write and quit
 
-
+## Useful
+`:! <command>` = Run a terminal command
