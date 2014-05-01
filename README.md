@@ -8,6 +8,7 @@
 `l` = Up  
 `{n}j` = Down {n} lines  
 `$` = Move to end of line  
+`Ctrl + N` = Open/close the sidebar  
 
 ## Editing
 
@@ -24,6 +25,7 @@
 
 `:q!` = Quit without saving  
 `:w` = Write file  
+`,w` = Write file with custom leader from vimrc  
 `:wq` = Write and quit  
 
 ## Useful
